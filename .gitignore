@@ -71,3 +71,20 @@ dist/
 *.egg-info/
 
 # ================
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data / Outputs
+outputs/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
